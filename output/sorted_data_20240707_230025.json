@@ -1,0 +1,88 @@
+{
+    "listings": [
+        {
+            "Address": "205 Downey St, San Francisco, CA 94117",
+            "Real Estate Agency": "Trulia",
+            "Price": "$2,375,000",
+            "Beds": "4bd",
+            "Baths": "2ba",
+            "Sqft": "2,812 sqft",
+            "Home Type": "Single Family Home",
+            "Listing Age": "NEW",
+            "Picture of Home URL": "https://www.trulia.com/pictures/thumbs_4/zillowstatic/fp/457f373124f9a6664374aab7cef36e91-full.webp",
+            "Listing URL": "/home/205-downey-st-san-francisco-ca-94117-370659115"
+        },
+        {
+            "Address": "708 Long Bridge St #1309, San Francisco, CA 94158",
+            "Real Estate Agency": "Justin Goldberg DRE #01705028, Compass",
+            "Price": "$3,300,000",
+            "Beds": "3bd",
+            "Baths": "3ba",
+            "Sqft": "1,950 sqft",
+            "Home Type": null,
+            "Listing Age": "NEW - 2 HRS AGO",
+            "Picture of home URL": "https://www.trulia.com/pictures/thumbs_4/zillowstatic/fp/3ad67fe56be06734f0879abd4068738b-full.webp",
+            "Listing URL": "/home/708-long-bridge-st-1309-san-francisco-ca-94158-241585404"
+        },
+        {
+            "Address": "4312 Kirkham St, San Francisco, CA 94122",
+            "Real Estate Agency": "Courtney Wing DRE #00986844, Coldwell Banker Realty",
+            "Price": "$998,000",
+            "Beds": "2",
+            "Baths": "2",
+            "Sqft": "990 sqft",
+            "Home Type": "Unknown",
+            "Listing Age": "NEW - 10 HRS AGO",
+            "Picture of home URL": "https://www.trulia.com/pictures/thumbs_4/zillowstatic/fp/d0a4d9999a009ae75f9d7b9e8b78659e-full.webp",
+            "Listing URL": "/home/4312-kirkham-st-san-francisco-ca-94122-15104188"
+        },
+        {
+            "Address": "250 Precita Ave, San Francisco, CA 94110",
+            "Real Estate Agency": "Aimee E. Arost DRE #01338229, Compass",
+            "Price": "$679,000",
+            "Beds": "1bd",
+            "Baths": "1ba",
+            "Sqft": "617 sqft",
+            "Home Type": null,
+            "Listing Age": null,
+            "Picture of home URL": "https://www.trulia.com/pictures/thumbs_4/zillowstatic/fp/1354d490e7889e1e601c21fd4072017f-full.webp",
+            "Listing URL": "/home/250-precita-ave-san-francisco-ca-94110-184818060"
+        },
+        {
+            "Address": "1105-1107 Tennessee St, San Francisco, CA 94107",
+            "Real Estate Agency": "Eladia Laines DRE #00457750, Unique Homes",
+            "Price": "$2,575,000",
+            "Beds": "4bd",
+            "Baths": "2ba",
+            "Sqft": "4,495 sqft",
+            "Home Type": null,
+            "Listing Age": null,
+            "Picture of home URL": "https://www.trulia.com/pictures/thumbs_4/zillowstatic/fp/35fee0475634b9ddcd9de591ba412e56-full.webp",
+            "Listing URL": "/home/1105-1107-tennessee-st-san-francisco-ca-94107-332860988"
+        },
+        {
+            "Address": "900 N Point St, San Francisco, CA 94109",
+            "Real Estate Agency": "Trulia",
+            "Price": "$125,000",
+            "Beds": "1",
+            "Baths": "1",
+            "Sqft": "850 sqft",
+            "Home Type": "Apartment",
+            "Listing Age": "1 day ago",
+            "Picture of Home URL": "https://www.trulia.com/pictures/thumbs_4/zillowstatic/fp/125bf26f4a3a3f57a43ff18df55c45a8-full.webp",
+            "Listing URL": "/home/900-n-point-st-san-francisco-ca-94109-370643254"
+        },
+        {
+            "Address": "266 Pacheco St, San Francisco, CA 94116",
+            "Real Estate Agency": "Anna G. Spathis DRE #01416042, STERLING HOMES",
+            "Price": "$7,250,000",
+            "Beds": "6bd",
+            "Baths": "8ba",
+            "Sqft": "5,241 sqft",
+            "Home Type": "House",
+            "Listing Age": "NEW",
+            "Picture of home URL": "https://www.trulia.com/pictures/thumbs_4/zillowstatic/fp/d4cd1e181a92c93c4891fd9f4751237b-full.webp",
+            "Listing URL": "/home/266-pacheco-st-san-francisco-ca-94116-15132840"
+        }
+    ]
+}

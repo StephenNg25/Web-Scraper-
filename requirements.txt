@@ -1,0 +1,5 @@
+firecrawl-py
+openai==1.2.3
+python-dotenv
+pandas
+openpyxl
