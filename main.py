@@ -4,7 +4,6 @@ from openai import AzureOpenAI
 from dotenv import load_dotenv
 import os 
 import json 
-import pandas as pd 
 from datetime import datetime
 
 def scrape_data(url):
@@ -115,20 +114,6 @@ def save_formatted_data(formatted_data, timestamp, output_folder='output'):
     if isinstance(formatted_data, dict) and len(formatted_data) == 1:
         key = next(iter(formatted_data))  # Get the single key
         formatted_data = formatted_data[key]
-
-     # Convert the formatted data to a pandas DataFrame
-    df = pd.DataFrame(formatted_data)
-
-    # Convert the formatted data to a pandas DataFrame
-    if isinstance(formatted_data, dict):
-        formatted_data = [formatted_data]
-
-    df = pd.DataFrame(formatted_data)
-
-    # Save the DataFrame to an Excel file
-    excel_output_path = os.path.join(output_folder, f'sorted_data_{timestamp}.xlsx')
-    df.to_excel(excel_output_path, index=False)
-    print(f"Formatted data saved to Excel at {excel_output_path}")
 
 if __name__ == "__main__":
     # Scrape a single URL
